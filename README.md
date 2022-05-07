@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## :white_check_mark: Pré requisitos ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Arduino - Uno](https://www.arduino.cc/en/software) instalados em sua maquina.
 
 ## :checkered_flag: Começando ##
 

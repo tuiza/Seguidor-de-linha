@@ -61,8 +61,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Arduino - Uno](https://www.arduino.cc/en/software)
 - [Ponte H](https://www.filipeflop.com/produto/driver-motor-ponte-h-l298n/)
 - [Sensor de Refletância QRE - Analógico](https://www.robocore.net/sensor-robo/sensor-de-linha-qre-analogico)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Pré requisitos ##
 
